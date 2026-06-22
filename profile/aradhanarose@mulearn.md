@@ -1,10 +1,10 @@
 # Aradhana Rose (Computer Science Student | Creative Developer | AI & Design Enthusiast)
 
-**Squad Domain:** Creative | FIFA Nation: Argentina
+**Squad Domain:** Design | FIFA Nation: Argentina
 
 ## About Me
 
-Hi! I'm Aradhana Rose, a second-year Computer Science Engineering student at Amal Jyothi College of Engineering. I'm passionate about blending creativity with technology through software development, Artificial Intelligence and 3D art using Blender.
+Hi! I'm Aradhana Rose, a second-year Computer Science Engineering student at Sahrdaya College of Engineering and Technology, Thrissur. I'm passionate about blending creativity with technology through software development, Artificial Intelligence and 3D art using Blender.
 
 I enjoy learning by building projects, solving coding challenges, exploring AI tools, and collaborating with communities that encourage innovation. Through μLearn and μFIFA, I hope to strengthen my technical skills, contribute to open-source projects, connect with inspiring people, and grow as both a developer and a creative thinker.
 
@@ -95,6 +95,10 @@ I love connecting with developers, designers, creators, and learners who share a
 - Strengthen my programming fundamentals.
 - Improve my Blender and UI/UX skills.
 - Contribute to open-source communities.
+
+### Long-Term
+
+My long-term goal is to become a skilled 3D artist and Blender professional capable of creating high-quality models, animations, and visualizations for games, films, and interactive media. I aim to continuously improve my creative and technical skills, build a strong portfolio, contribute to collaborative projects, and create visually compelling work that leaves a lasting impact.
 
 ## Profile Card
 
