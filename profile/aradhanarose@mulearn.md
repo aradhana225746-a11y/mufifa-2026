@@ -41,7 +41,7 @@ During μFIFA, I want to collaborate with talented people, contribute to meaning
 
 ## History of Open Source and Collaborative Contributions
 
-I am currently building my open-source journey by learning Git and GitHub, contributing to community-driven initiatives, and working on personal projects. μFIFA is an exciting opportunity for me to collaborate with others and make meaningful contributions.
+μFIFA is an exciting opportunity for me to collaborate with others and make meaningful contributions.
 
 ## History of Community Engagement
 
